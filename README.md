@@ -6,7 +6,7 @@ More specifically, it contains three tasks. One task is determining whether a pa
 
 ## Usage
 
-The package requirements are installed inside the notebooks. If you wish to use a different model, specify its name in the Load Model Section. Also, you will need to login or specify your hugging face token where necessary.
+The package requirements will be installed inside the notebooks. If you wish to use a different model, specify its name in the Load Model Section. Also, you will need to login or specify your hugging face token where necessary.
 
 Download dataset [here](https://drive.google.com/file/d/1Q8O1IUOobKJPvFoHIhdS27Tq8uSNtMUl/view?usp=sharing).
 
