@@ -20,7 +20,7 @@ The RAG Reasoning Dataset was created from the self-rag dataset which is an inst
 | ------------- | ------------- | ------------- | ------------- |
 | Base | 0.097 | 0.207 | 0.725 |
 | Fine-tuned RAG Reasoning | 0.200 | 0.364 | 0.899 |
-| Fine-tuned RAG Reasoning + Alapaca | 0.369 | 0.086 | 0.901 |
+| Fine-tuned RAG Reasoning + Alapaca | 0.212 | 0.369 | 0.901 |
 
 As expected, the results of this experiment show that the base model had much lower performance than the fine-tuned versions of the model in all metrics. Among the two fine-tuned models, the one that was also trained on the RAG Reasoning dataset along with the Alpaca dataset had slightly better results than the one fine-tuned without Alpaca. 
 
