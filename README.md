@@ -1,6 +1,6 @@
 # Overview
 
-This repository contains the code for generating the RAG Reasoning Dataset and fine-tuning and testing models on this instruction dataset. As the name implies, the RAG Reasoning Dataset contains tasks whose goal is to explain reasoning/rationale behind generating an answer using a retrieved document. 
+This repository contains the code for generating the RAG Reasoning Dataset and fine-tuning and testing models on this instruction dataset. As the name implies, the RAG Reasoning Dataset contains tasks whose goal is to explain the reasoning/rationale behind generating an answer using a retrieved document. 
 
 More specifically, it contains three tasks. One task is determining whether a paragraph is relevant to a question and explaining why it is or not. Another one is about deciding how much the document supports the answer and justifying that answer. The other task is to tell whether the response covers the complete answer and explain the reason why it thinks that.
 
