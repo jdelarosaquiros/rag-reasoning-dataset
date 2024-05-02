@@ -8,7 +8,7 @@ More specifically, it contains three tasks. One task is determining whether a pa
 
 The package requirements are in the first cells of each notebook. If you wish to use a different model, specify its name in the Load Model Section.
 
-Download dataset [here](https://drive.google.com/file/d/1Q8O1IUOobKJPvFoHIhdS27Tq8uSNtMUl/view?usp=sharing)
+Download dataset [here](https://drive.google.com/file/d/1Q8O1IUOobKJPvFoHIhdS27Tq8uSNtMUl/view?usp=sharing).
 
 ## Dataset Creation Summary
 
